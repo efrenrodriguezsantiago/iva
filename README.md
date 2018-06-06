@@ -4,7 +4,7 @@ y muestre en la salida estandar
 el precio del producto al aplicarle el iva 
 */
 
-#include <iostream>
+#include <iostream> //es la entrada
 
 using namespace std;
 int main(){
