@@ -19,6 +19,7 @@ float producto, iva = 0.16; //son las variables
 	
 	
 	
-	return 0;
+	return 0; //esta es la salida de este programa y lo imprime
+	
 }
 
